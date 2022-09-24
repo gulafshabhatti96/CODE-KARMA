@@ -1,0 +1,2 @@
+# CODE-KARMA
+EN-DRA is the portal that maps the skillsets and job profiles between the recruiter and the women seeking the job. Recruiter need to provide the details of job title, job description, speciality, language, working duration, job type, job region (in case if not WFH), etc. Correspondingly, women will be providing the information about the nature of job profile required, working duration, language, preferred region, etc.
